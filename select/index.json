@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キングスネークの憂鬱",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-25T05:13:32.098252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キングスネークの憂鬱",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_キングスネークの憂鬱_Mr.Children.txt"
+    }
+  ]
+}
